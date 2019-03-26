@@ -4,3 +4,12 @@
     background-size: cover;
     height: 33vh;
 }
+.nav-link{
+    padding-top: 0px;
+}
+.dropdown{
+    padding-top: 10px;
+}
+.fas{
+    padding-top: 10px;
+}
