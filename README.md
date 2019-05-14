@@ -8,3 +8,5 @@ No JavaScript was used therefore the Modal and Dropdown menu in the top right
 corner are simply for asthetic purposes and do not have functionality.
 
 
+See the Live Demo here: https://enriqueesmith.github.io/Instagram-Feed-Bootstrap.github.io/.
+
